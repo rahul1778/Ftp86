@@ -1,4 +1,9 @@
+today is wednwsday
+agile
 hellon i am piyush
 hello i am rahul
+<<<<<<< HEAD
 tomorrow is thursday
 dj night
+=======
+>>>>>>> br1
